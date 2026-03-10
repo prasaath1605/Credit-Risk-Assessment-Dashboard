@@ -200,16 +200,22 @@ Credit-Risk-Assessment-Dashboard
 
 # 📈 Key Insights
 
-• Majority of customers fall under the **Low Risk segment**.
+• Majority of customers fall under the Low Risk segment.
 
-• **High Risk customers show higher payment delays and outstanding debt exposure.**
+• High Risk customers show higher payment delays and outstanding debt exposure.
 
-• Approved customers demonstrate **lower EMI burden and lower delay frequency**, indicating financial stability.
+• Approved customers demonstrate lower EMI burden and lower delay frequency, indicating financial stability.
 
-• Risk-based pricing is observed where **high-risk customers receive higher interest rates**.
+• Risk-based pricing is observed where high-risk customers receive higher interest rates.
+
+• The loan approval strategy balances credit growth and risk control by approving financially stable customers while placing medium-risk customers under review.
 
 ---
+# Conclusion
 
+This project demonstrates how customer financial behavior can be analyzed to identify credit risk and support better loan approval decisions using data analytics.
+
+---
 # 👨‍💻 Author
 
 **N M Guru Prasaath**
