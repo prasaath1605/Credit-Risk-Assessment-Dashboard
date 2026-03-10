@@ -156,13 +156,13 @@ This helps simulate **real-world loan approval strategies**.
 ## Dashboard Preview
 
 ### Portfolio Overview
-![Portfolio Overview](Dashboard1.png)
+![Portfolio Overview](dashboard_page1.png)
 
 ### Risk Segment Analysis
-![Risk Segment Analysis](Dashboard%202.png)
+![Risk Analysis](dashboard_page2.png)
 
 ### Loan Decision Insights
-![Loan Decision Insights](Dashboard%203.png)
+![Loan Decision](dashboard_page3.png)
 
 ---
 
